@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://10.188.0.2:9200"
+  username: "ruiyanguo"
+  password: "Sehrschon688"
+
+gcs:
+  bucket: "instgramproject-bucket"
+
+token:
+  secret: "secret"
