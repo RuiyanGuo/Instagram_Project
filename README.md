@@ -2,7 +2,7 @@ Developed a Instgram liked web app
 
 Frontend code and a GoogleAppEngine based deployed link will be available soon
 
-# Instgram_Project
+# Instgram Project
 Full-stack Web Service Development for a Go and React-based Social Network
 
 • Designed and implemented a social network web application with React JS.
