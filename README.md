@@ -1,4 +1,4 @@
-Developed a Instgram liked web app
+Developed a Instagram liked web app
 
 FrontEnd: React
 
