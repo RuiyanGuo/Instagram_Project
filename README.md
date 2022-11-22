@@ -6,7 +6,7 @@ BackEnd: Go
 
 A GoogleAppEngine based deployed link will be available soon
 
-# Instgram Project
+# Instagram Project
 Descriptions:
 
 Full-stack Web Service Development for a Go and React-based Social Network
